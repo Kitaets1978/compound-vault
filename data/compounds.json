@@ -1,0 +1,329 @@
+[
+  {
+    "slug": "testosterone",
+    "name": "Testosterone",
+    "aliases": [
+      "T",
+      "test"
+    ],
+    "class": "anabolic steroid",
+    "structure_image": "",
+    "half_life": "Formulation-dependent; ester and route materially alter persistence. PLACEHOLDER – verify product-specific values.",
+    "mechanism": "Endogenous androgen that activates the androgen receptor; can be converted to estradiol and dihydrotestosterone.",
+    "effects_studied": "Strong evidence for treating clinically diagnosed hypogonadism under medical supervision. Performance claims outside medical use are not an endorsement.",
+    "side_effects": "Acne, fluid retention, increased hematocrit and suppression of sperm production.",
+    "long_term_risks": "Nonmedical exposure can impair fertility and increase cardiovascular risk; risk depends on exposure and individual factors.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "nandrolone",
+      "oxandrolone"
+    ],
+    "references": [
+      {
+        "title": "NIDA: Anabolic steroids",
+        "url": "https://nida.nih.gov/research-topics/anabolic-steroids"
+      }
+    ],
+    "risk_tags": [
+      "lipids",
+      "blood_pressure",
+      "hematocrit",
+      "hpta",
+      "mood"
+    ]
+  },
+  {
+    "slug": "nandrolone",
+    "name": "Nandrolone",
+    "aliases": [
+      "19-nortestosterone"
+    ],
+    "class": "anabolic steroid",
+    "structure_image": "",
+    "half_life": "Ester-dependent; PLACEHOLDER – verify formulation-specific pharmacokinetics.",
+    "mechanism": "A synthetic androgen that activates androgen receptors and suppresses endogenous reproductive hormone signaling.",
+    "effects_studied": "Evidence exists for selected historical medical indications; bodybuilding claims are not equivalent to demonstrated long-term safety.",
+    "side_effects": "Hormonal suppression, acne, changes in lipids and fluid retention.",
+    "long_term_risks": "Potential cardiovascular harm, fertility impairment and persistent endocrine effects with nonmedical use.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "testosterone",
+      "trenbolone"
+    ],
+    "references": [
+      {
+        "title": "NIDA: Anabolic steroids",
+        "url": "https://nida.nih.gov/research-topics/anabolic-steroids"
+      }
+    ],
+    "risk_tags": [
+      "lipids",
+      "blood_pressure",
+      "hematocrit",
+      "hpta",
+      "mood"
+    ]
+  },
+  {
+    "slug": "trenbolone",
+    "name": "Trenbolone",
+    "aliases": [
+      "tren"
+    ],
+    "class": "anabolic steroid",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify; reliable human pharmacokinetic data are limited.",
+    "mechanism": "Potent androgen-receptor agonist used in veterinary contexts; not approved for human treatment.",
+    "effects_studied": "Human therapeutic and performance safety evidence is inadequate; much of the claimed benefit is extrapolated or anecdotal.",
+    "side_effects": "Reported hormonal suppression, acne, mood and sleep disturbances; robust human safety data are lacking.",
+    "long_term_risks": "Long-term human risk is poorly characterized; cardiovascular and endocrine concerns remain substantial.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "nandrolone",
+      "testosterone"
+    ],
+    "references": [
+      {
+        "title": "NIDA: Anabolic steroids",
+        "url": "https://nida.nih.gov/research-topics/anabolic-steroids"
+      }
+    ],
+    "risk_tags": [
+      "lipids",
+      "blood_pressure",
+      "hematocrit",
+      "hpta",
+      "mood",
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "oxandrolone",
+    "name": "Oxandrolone",
+    "aliases": [
+      "Anavar"
+    ],
+    "class": "anabolic steroid",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify against the relevant formulation and prescribing information.",
+    "mechanism": "Orally active synthetic androgen; its 17-alpha-alkylated structure is associated with hepatic risk.",
+    "effects_studied": "Evidence from selected catabolic medical conditions does not establish safety for physique use. US approvals were withdrawn in 2023.",
+    "side_effects": "Liver injury, adverse lipid changes, hormonal suppression and virilization.",
+    "long_term_risks": "Serious hepatic complications and cardiovascular risk are concerns, especially with nonmedical use.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "testosterone",
+      "nandrolone"
+    ],
+    "references": [
+      {
+        "title": "NIDA: Anabolic steroids",
+        "url": "https://nida.nih.gov/research-topics/anabolic-steroids"
+      }
+    ],
+    "risk_tags": [
+      "liver",
+      "lipids",
+      "hpta",
+      "mood"
+    ]
+  },
+  {
+    "slug": "ostarine",
+    "name": "Ostarine",
+    "aliases": [
+      "MK-2866",
+      "enobosarm"
+    ],
+    "class": "SARM",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify; investigational pharmacokinetics are not prescribing guidance.",
+    "mechanism": "Investigational selective androgen receptor modulator. Selectivity does not mean absence of systemic harm.",
+    "effects_studied": "Limited clinical research on lean mass in selected populations; not approved by the FDA for bodybuilding or any medical use.",
+    "side_effects": "Liver injury, adverse lipid changes and suppression of reproductive hormones are concerns.",
+    "long_term_risks": "Long-term cardiovascular, reproductive and cancer-related outcomes remain uncertain.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "rad-140",
+      "lgd-4033"
+    ],
+    "references": [
+      {
+        "title": "FDA: SARMs safety concerns",
+        "url": "https://www.fda.gov/consumers/consumer-updates/caution-bodybuilding-products-can-be-risky"
+      }
+    ],
+    "risk_tags": [
+      "liver",
+      "lipids",
+      "hpta",
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "rad-140",
+    "name": "RAD-140",
+    "aliases": [
+      "testolone"
+    ],
+    "class": "SARM",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify; limited human data.",
+    "mechanism": "Investigational androgen receptor modulator studied in early-stage research.",
+    "effects_studied": "Preclinical and limited early human research; claimed physique effects lack established safety evidence.",
+    "side_effects": "Liver injury has been reported; endocrine and lipid effects are concerns.",
+    "long_term_risks": "Long-term human safety is not established.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "ostarine",
+      "lgd-4033"
+    ],
+    "references": [
+      {
+        "title": "FDA: SARMs safety concerns",
+        "url": "https://www.fda.gov/consumers/consumer-updates/caution-bodybuilding-products-can-be-risky"
+      }
+    ],
+    "risk_tags": [
+      "liver",
+      "lipids",
+      "hpta",
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "lgd-4033",
+    "name": "LGD-4033",
+    "aliases": [
+      "ligandrol"
+    ],
+    "class": "SARM",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify against published human studies.",
+    "mechanism": "Investigational nonsteroidal selective androgen receptor modulator.",
+    "effects_studied": "Small, short-duration human trials assessed lean mass and safety markers; these do not establish long-term benefit or safety.",
+    "side_effects": "Suppression of reproductive hormones, lipid changes and reported liver injury.",
+    "long_term_risks": "Long-term cardiovascular, hepatic and reproductive outcomes remain uncertain.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "ostarine",
+      "rad-140"
+    ],
+    "references": [
+      {
+        "title": "FDA: SARMs safety concerns",
+        "url": "https://www.fda.gov/consumers/consumer-updates/caution-bodybuilding-products-can-be-risky"
+      }
+    ],
+    "risk_tags": [
+      "liver",
+      "lipids",
+      "hpta",
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "bpc-157",
+    "name": "BPC-157",
+    "aliases": [
+      "body protection compound 157"
+    ],
+    "class": "peptide",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify; no established clinical human pharmacokinetic profile.",
+    "mechanism": "Experimental peptide investigated in preclinical tissue-injury models; its human mechanism and clinical relevance are not established.",
+    "effects_studied": "Mostly animal and laboratory evidence. Claims of human injury healing are not established by robust clinical trials.",
+    "side_effects": "Human adverse-effect frequency and safety profile are not adequately characterized.",
+    "long_term_risks": "Long-term human safety, immunogenicity and other systemic risks remain unknown.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "cjc-1295",
+      "ipamorelin"
+    ],
+    "references": [
+      {
+        "title": "FDA: Compounding safety risks",
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+      }
+    ],
+    "risk_tags": [
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "cjc-1295",
+    "name": "CJC-1295",
+    "aliases": [
+      "CJC1295"
+    ],
+    "class": "peptide",
+    "structure_image": "",
+    "half_life": "Formulation-dependent; products with and without drug-affinity complexes are not interchangeable. PLACEHOLDER – verify.",
+    "mechanism": "Investigational growth hormone-releasing hormone analogue that can stimulate the growth hormone/IGF-1 axis.",
+    "effects_studied": "Limited human endocrine studies; anti-aging and performance benefits are not established.",
+    "side_effects": "Injection-site reactions and endocrine effects have been reported; safety evidence is limited.",
+    "long_term_risks": "Potential metabolic and endocrine risks; long-term human outcomes are not established.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "ipamorelin",
+      "bpc-157"
+    ],
+    "references": [
+      {
+        "title": "FDA: Compounding safety risks",
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+      }
+    ],
+    "risk_tags": [
+      "unknown_human_data"
+    ]
+  },
+  {
+    "slug": "ipamorelin",
+    "name": "Ipamorelin",
+    "aliases": [
+      "IPA"
+    ],
+    "class": "peptide",
+    "structure_image": "",
+    "half_life": "PLACEHOLDER – verify; clinical human pharmacokinetic evidence is limited.",
+    "mechanism": "Investigational growth hormone secretagogue acting at the ghrelin receptor.",
+    "effects_studied": "Early research does not establish efficacy or long-term safety for physique enhancement or anti-aging.",
+    "side_effects": "Human safety data are limited; endocrine and metabolic effects require medical evaluation.",
+    "long_term_risks": "Long-term endocrine, metabolic and other systemic outcomes remain uncertain.",
+    "legal_ca": "PLACEHOLDER – verify current Canadian law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_us": "PLACEHOLDER – verify current US federal and state law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "legal_uk": "PLACEHOLDER – verify current UK law for this exact substance, formulation and use. Approval, possession and supply are separate questions.",
+    "related": [
+      "cjc-1295",
+      "bpc-157"
+    ],
+    "references": [
+      {
+        "title": "FDA: Compounding safety risks",
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+      }
+    ],
+    "risk_tags": [
+      "unknown_human_data"
+    ]
+  }
+]
